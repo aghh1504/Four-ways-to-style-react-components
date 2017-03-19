@@ -14,18 +14,6 @@
   color: white;
 }
 
-.App-wrapper-intro {
-  margin: 40px;
-  border: 5px dotted pink;
-  height: 70px;
-}
-
-.App-intro {
-  margin: 40px;
-  font-size: large;
-  color: pink;
-}
-
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
