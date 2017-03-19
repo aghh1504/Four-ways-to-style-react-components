@@ -1,9 +1,9 @@
 import React from 'react';
-import styles from './DottedBox.css';
+import './DottedBox.css';
 
 const DottedBox = () => (
   <div className="container">
-    <p className="content">Get started with Css styling.</p>
+    <p className="content">Get started with CSS styling</p>
   </div>
 );
 
